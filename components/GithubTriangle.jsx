@@ -1,7 +1,7 @@
 import React from "react";
 
 export default function GithubTriangle() {
-  const url = "https://github.com/web3sdkio-example/web3button";
+  const url = "https://github.com/web3sdkio-template/web3button";
 
   return (
     <>
